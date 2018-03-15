@@ -1,0 +1,37 @@
+<customers>
+    <customer>
+        <cif>15842365G</cif>
+        <name>Cesáreo Domínquez Adomo</name>
+        <address>15940 A Pobra do Caramiñal</address>
+        <phone_number>669343593</phone_number>
+        <email>CesareoDominquezAdomo@gustr.com</email>
+    </customer>
+    <customer>
+        <cif>21543698C</cif>
+        <name>Ismenia Sosa Gastelum</name>
+        <address>15310 Curtis</address>
+        <phone_number>728600714</phone_number>
+        <email>IsmeniaSosaGastelum@superrito.com</email>
+    </customer>
+    <customer>
+        <cif>12546124L</cif>
+        <name>Gaspard Agosto Escobedo</name>
+        <address>15316 Coirós</address>
+        <phone_number>694550972</phone_number>
+        <email>GaspardAgostoEscobedo@superrito.com</email>
+    </customer>
+    <customer>
+        <cif>96315745W</cif>
+        <name>Indiana Heredia Nava</name>
+        <address>15685 Mesía</address>
+        <phone_number>677262862</phone_number>
+        <email>IndianaHerediaNava@gustr.com</email>
+    </customer>
+    <customer>
+        <cif>49687201N</cif>
+        <name>Egeo Aguilar Cabrera</name>
+        <address>15800 Melide</address>
+        <phone_number>628638224</phone_number>
+        <email>EgeoAguilarCabrera@superrito.com</email>
+    </customer>
+</customers>
